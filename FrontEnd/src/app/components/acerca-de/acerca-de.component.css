@@ -19,7 +19,7 @@ div{
         border-radius: 100%;
         box-shadow: 2px 2px 2px grey;
         left: 4%;
-        top: 77%;
+        top: 54%;
     }
     #nombre{
         position: relative;
@@ -43,11 +43,11 @@ div{
     
     #fotoDePerfil{
         position: absolute;
-        width: 27%;
+        width: 22%;
         border-radius: 100%;
         box-shadow: 2px 2px 2px grey;
-        left: 37%;
-        top: 610px;
+        left: 38%;
+        top: 65%;
     }
 
     #nombre{

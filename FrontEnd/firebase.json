@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/portafolio-ap-lucas-siano",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

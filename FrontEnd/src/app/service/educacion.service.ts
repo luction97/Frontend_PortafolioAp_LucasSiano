@@ -9,7 +9,7 @@ import { Educacion } from '../model/educacion';
 })
 export class EducacionService {
 
-  URL = 'http://localhost:8080/educacion/';
+  URL = 'https://backendportafolioaplucassiano-production.up.railway.app/educacion/';
 
   constructor(private httpClient : HttpClient) { }
 

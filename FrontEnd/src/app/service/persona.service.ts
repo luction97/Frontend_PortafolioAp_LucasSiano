@@ -10,9 +10,7 @@ import { persona } from '../model/persona.model';
 export class PersonaService {
 
   // URL genérica por defecto
-  URL = 'http://localhost:8080/personas/';
-
-
+  URL = 'https://backendportafolioaplucassiano-production.up.railway.app/personas/';
 
 
   constructor(private http: HttpClient) { }
